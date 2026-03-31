@@ -38,16 +38,10 @@
 ## 📊 GitHub Stats
 ![Safvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Profile99&show_icons=true&theme=tokyonight)
 
----
 
-## 🔥 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Profile99&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/
-muhammedsafvan08 
+- 💼 LinkedIn: www.linkedin.com/in/muhammedsafvan08 
 - 📧 Email: muhammedsafvan00007@ggmail.com  
 
 ---
