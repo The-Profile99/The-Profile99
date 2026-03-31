@@ -35,13 +35,8 @@
 
 
 
-## 📊 GitHub Stats
-![Safvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Profile99&show_icons=true&theme=tokyonight)
-
-
-
 ## 📫 Connect With Me
 - 💼 LinkedIn: www.linkedin.com/in/muhammedsafvan08 
-- 📧 Email: muhammedsafvan00007@ggmail.com  
+- 📧 Email: muhammedsafvan00007@gmail.com  
 
 
