@@ -2,7 +2,7 @@
 
 ### 🔐 Cybersecurity Enthusiast | Penetration Tester | CTF Player
 
----
+
 
 ## 🚀 About Me
 - 💻 Passionate about **Cybersecurity & Ethical Hacking**
@@ -11,7 +11,7 @@
 - 🎯 Goal: Become a **Professional Penetration Tester**
 - ⚡ Active in **CTFs & Vulnerable Labs**
 
----
+
 
 ## 🛠️ Skills & Tools
 
@@ -44,12 +44,4 @@
 - 💼 LinkedIn: www.linkedin.com/in/muhammedsafvan08 
 - 📧 Email: muhammedsafvan00007@ggmail.com  
 
----
 
-## ⚠️ Disclaimer
-> All activities are performed in **authorized environments only** for learning and ethical purposes.
-
----
-
-## 💡 Quote
-> "Hack the system, but ethically."
