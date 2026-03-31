@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Safvan
 
-<!--
-**The-Profile99/The-Profile99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔐 Cybersecurity Enthusiast | Penetration Tester | CTF Player
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 Passionate about **Cybersecurity & Ethical Hacking**
+- 🔍 Focused on **Web Application Penetration Testing**
+- 🧠 Learning **Advanced Exploitation & Privilege Escalation**
+- 🎯 Goal: Become a **Professional Penetration Tester**
+- ⚡ Active in **CTFs & Vulnerable Labs**
+
+---
+
+## 🛠️ Skills & Tools
+
+### 🔎 Reconnaissance & Scanning
+- Nmap  
+- Gobuster  
+- Assetfinder  
+
+### 💥 Exploitation Techniques
+- SQL Injection  
+- File Upload Bypass  
+- Command Injection  
+- Authentication Bypass  
+
+### 🔧 Security Tools
+- Burp Suite  
+- Metasploit Framework  
+- Wireshark  
+- Netcat  
+
+
+
+
+## 📊 GitHub Stats
+![Safvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Profile99&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Profile99&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: www.linkedin.com/in/
+muhammedsafvan08 
+- 📧 Email: muhammedsafvan00007@ggmail.com  
+
+---
+
+## ⚠️ Disclaimer
+> All activities are performed in **authorized environments only** for learning and ethical purposes.
+
+---
+
+## 💡 Quote
+> "Hack the system, but ethically."
